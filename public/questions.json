@@ -1,0 +1,732 @@
+[
+  {
+    "question": "What is the medical term for the inflammation of the joints?",
+    "choices": ["Arthritis", "Osteoporosis", "Scoliosis", "Fibromyalgia"],
+    "answer": "Arthritis"
+  },
+  {
+    "question": "Which medical specialist deals with the heart and blood vessels?",
+    "choices": [
+      "Cardiologist",
+      "Neurologist",
+      "Dermatologist",
+      "Gastroenterologist"
+    ],
+    "answer": "Cardiologist"
+  },
+  {
+    "question": "What is the function of the kidneys?",
+    "choices": [
+      "To filter waste from the blood",
+      "To produce insulin",
+      "To store bile",
+      "To break down carbohydrates"
+    ],
+    "answer": "To filter waste from the blood"
+  },
+  {
+    "question": "Which condition is characterized by a blockage of blood flow to the heart muscle?",
+    "choices": ["Arrhythmia", "Aneurysm", "Heart attack", "Stroke"],
+    "answer": "Heart attack"
+  },
+  {
+    "question": "What is the primary function of the immune system?",
+    "choices": [
+      "To digest food",
+      "To fight infections",
+      "To produce hormones",
+      "To filter blood"
+    ],
+    "answer": "To fight infections"
+  },
+  {
+    "question": "Which organ produces insulin?",
+    "choices": ["Liver", "Pancreas", "Kidneys", "Stomach"],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "What is the medical term for high blood sugar?",
+    "choices": ["Hyperglycemia", "Hypoglycemia", "Hypertension", "Hypotension"],
+    "answer": "Hyperglycemia"
+  },
+  {
+    "question": "Which part of the brain is responsible for memory and learning?",
+    "choices": ["Cerebellum", "Medulla", "Hippocampus", "Thalamus"],
+    "answer": "Hippocampus"
+  },
+  {
+    "question": "Which condition is characterized by inflamed and narrow airways in the lungs?",
+    "choices": ["Pneumonia", "Asthma", "Bronchitis", "Emphysema"],
+    "answer": "Asthma"
+  },
+  {
+    "question": "What is the medical term for a decrease in the number of platelets?",
+    "choices": [
+      "Thrombocytosis",
+      "Thrombocytopenia",
+      "Leukocytosis",
+      "Leukopenia"
+    ],
+    "answer": "Thrombocytopenia"
+  },
+  {
+    "question": "What does BMR stand for?",
+    "choices": [
+      "Basal Metabolic Rate",
+      "Basic Metabolism Rate",
+      "Biological Metabolic Rate",
+      "Bilateral Metabolic Rate"
+    ],
+    "answer": "Basal Metabolic Rate"
+  },
+  {
+    "question": "Which organ is primarily involved in detoxification?",
+    "choices": ["Liver", "Heart", "Kidneys", "Lungs"],
+    "answer": "Liver"
+  },
+  {
+    "question": "Which condition is characterized by the thinning and weakening of bones?",
+    "choices": ["Osteoporosis", "Arthritis", "Scoliosis", "Fibromyalgia"],
+    "answer": "Osteoporosis"
+  },
+  {
+    "question": "What is the main function of the hypothalamus?",
+    "choices": [
+      "To regulate body temperature",
+      "To produce digestive enzymes",
+      "To filter blood",
+      "To store vitamins"
+    ],
+    "answer": "To regulate body temperature"
+  },
+  {
+    "question": "Which hormone helps regulate blood sugar levels?",
+    "choices": ["Insulin", "Adrenaline", "Melatonin", "Thyroxine"],
+    "answer": "Insulin"
+  },
+  {
+    "question": "Which structure carries urine from the kidneys to the bladder?",
+    "choices": ["Urethra", "Ureter", "Bladder", "Nephron"],
+    "answer": "Ureter"
+  },
+  {
+    "question": "What is the primary function of the medulla oblongata?",
+    "choices": [
+      "To control breathing and heart rate",
+      "To regulate metabolism",
+      "To produce hormones",
+      "To filter blood"
+    ],
+    "answer": "To control breathing and heart rate"
+  },
+  {
+    "question": "What does BMI stand for?",
+    "choices": [
+      "Body Mass Index",
+      "Basal Metabolic Index",
+      "Body Measurement Index",
+      "Basic Metabolism Index"
+    ],
+    "answer": "Body Mass Index"
+  },
+  {
+    "question": "Which condition is characterized by a sudden interruption of blood supply to the brain?",
+    "choices": ["Stroke", "Aneurysm", "Epilepsy", "Meningitis"],
+    "answer": "Stroke"
+  },
+  {
+    "question": "Which organ is responsible for producing bile?",
+    "choices": ["Liver", "Pancreas", "Kidneys", "Stomach"],
+    "answer": "Liver"
+  },
+  {
+    "question": "What is the medical term for inflammation of the liver?",
+    "choices": ["Hepatitis", "Nephritis", "Pancreatitis", "Gastritis"],
+    "answer": "Hepatitis"
+  },
+  {
+    "question": "What is the main function of the large intestine?",
+    "choices": [
+      "To absorb nutrients",
+      "To store bile",
+      "To reabsorb water and electrolytes",
+      "To filter blood"
+    ],
+    "answer": "To reabsorb water and electrolytes"
+  },
+  {
+    "question": "Which vitamin is essential for blood clotting?",
+    "choices": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+    "answer": "Vitamin K"
+  },
+  {
+    "question": "Which condition is characterized by the presence of abnormal proteins in the blood or urine?",
+    "choices": ["Multiple Myeloma", "Leukemia", "Lymphoma", "Anemia"],
+    "answer": "Multiple Myeloma"
+  },
+  {
+    "question": "What is the medical term for an abnormally low white blood cell count?",
+    "choices": [
+      "Leukocytosis",
+      "Leukopenia",
+      "Thrombocytosis",
+      "Thrombocytopenia"
+    ],
+    "answer": "Leukopenia"
+  },
+  {
+    "question": "What is the primary function of the adrenal glands?",
+    "choices": [
+      "To regulate metabolism",
+      "To produce digestive enzymes",
+      "To secrete hormones such as adrenaline",
+      "To filter blood"
+    ],
+    "answer": "To secrete hormones such as adrenaline"
+  },
+  {
+    "question": "Which condition is characterized by the narrowing of the arteries due to plaque buildup?",
+    "choices": ["Atherosclerosis", "Aneurysm", "Arrhythmia", "Hypertension"],
+    "answer": "Atherosclerosis"
+  },
+  {
+    "question": "What is the medical term for difficulty breathing?",
+    "choices": ["Dyspnea", "Dysphagia", "Dysphasia", "Dysuria"],
+    "answer": "Dyspnea"
+  },
+  {
+    "question": "Which hormone is produced by the adrenal medulla?",
+    "choices": ["Insulin", "Adrenaline", "Melatonin", "Thyroxine"],
+    "answer": "Adrenaline"
+  },
+  {
+    "question": "Which condition is characterized by the presence of pus in the urine?",
+    "choices": ["Pyuria", "Hematuria", "Proteinuria", "Glycosuria"],
+    "answer": "Pyuria"
+  },
+  {
+    "question": "What is the primary function of the pituitary gland?",
+    "choices": [
+      "To produce hormones that regulate other glands",
+      "To regulate blood pressure",
+      "To filter blood",
+      "To store bile"
+    ],
+    "answer": "To produce hormones that regulate other glands"
+  },
+  {
+    "question": "What is the medical term for high blood pressure?",
+    "choices": ["Hypertension", "Hypotension", "Hyperglycemia", "Hypoglycemia"],
+    "answer": "Hypertension"
+  },
+  {
+    "question": "Which condition is characterized by the abnormal enlargement of the prostate gland?",
+    "choices": [
+      "Prostatitis",
+      "Benign Prostatic Hyperplasia",
+      "Prostate Cancer",
+      "Prostate Cyst"
+    ],
+    "answer": "Benign Prostatic Hyperplasia"
+  },
+  {
+    "question": "What is the purpose of a surgical time-out?",
+    "choices": [
+      "To allow the surgical team to take a break",
+      "To verify patient identity, surgical site, and procedure",
+      "To assess the patient's pain level",
+      "To review the patient's medical history"
+    ],
+    "answer": "To verify patient identity, surgical site, and procedure"
+  },
+  {
+    "question": "What does OT stand for in a medical context?",
+    "choices": [
+      "Occupational Therapy",
+      "Operating Theatre",
+      "Observation Treatment",
+      "Oxygen Therapy"
+    ],
+    "answer": "Occupational Therapy"
+  },
+  {
+    "question": "Which organ is primarily affected in hepatitis?",
+    "choices": ["Heart", "Liver", "Kidneys", "Lungs"],
+    "answer": "Liver"
+  },
+  {
+    "question": "What is the primary function of red blood cells?",
+    "choices": [
+      "To fight infections",
+      "To carry oxygen",
+      "To clot blood",
+      "To produce antibodies"
+    ],
+    "answer": "To carry oxygen"
+  },
+  {
+    "question": "What is the name of the procedure to remove the gallbladder?",
+    "choices": [
+      "Appendectomy",
+      "Cholecystectomy",
+      "Hysterectomy",
+      "Laminectomy"
+    ],
+    "answer": "Cholecystectomy"
+  },
+  {
+    "question": "Which vitamin deficiency causes rickets?",
+    "choices": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "In medical terminology, what does the prefix 'hyper-' mean?",
+    "choices": ["Under", "Above normal", "Within", "Between"],
+    "answer": "Above normal"
+  },
+  {
+    "question": "What is the main purpose of an autoclave in a medical setting?",
+    "choices": [
+      "To wash surgical instruments",
+      "To sterilize equipment",
+      "To store medical supplies",
+      "To measure blood pressure"
+    ],
+    "answer": "To sterilize equipment"
+  },
+  {
+    "question": "Which part of the brain controls balance and coordination?",
+    "choices": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"],
+    "answer": "Cerebellum"
+  },
+  {
+    "question": "What does ECG stand for?",
+    "choices": [
+      "Electrocardiogram",
+      "Endoscopic Gastrostomy",
+      "Echocardiography",
+      "Electroencephalogram"
+    ],
+    "answer": "Electrocardiogram"
+  },
+  {
+    "question": "What is the normal adult respiratory rate?",
+    "choices": [
+      "12-20 breaths per minute",
+      "20-30 breaths per minute",
+      "30-40 breaths per minute",
+      "40-50 breaths per minute"
+    ],
+    "answer": "12-20 breaths per minute"
+  },
+  {
+    "question": "What is the primary role of insulin in the body?",
+    "choices": [
+      "To regulate blood sugar levels",
+      "To break down fats",
+      "To increase blood pressure",
+      "To produce red blood cells"
+    ],
+    "answer": "To regulate blood sugar levels"
+  },
+  {
+    "question": "What condition is characterized by the inflammation of the appendix?",
+    "choices": ["Cholecystitis", "Pancreatitis", "Gastritis", "Appendicitis"],
+    "answer": "Appendicitis"
+  },
+  {
+    "question": "What does CPR stand for?",
+    "choices": [
+      "Cardiopulmonary Resuscitation",
+      "Cardiac Pulse Recovery",
+      "Central Pulse Resuscitation",
+      "Cerebral Pulse Recovery"
+    ],
+    "answer": "Cardiopulmonary Resuscitation"
+  },
+  {
+    "question": "Which condition is known as high blood pressure?",
+    "choices": ["Hypotension", "Hypertension", "Hypoglycemia", "Hyperglycemia"],
+    "answer": "Hypertension"
+  },
+  {
+    "question": "What is the function of platelets in the blood?",
+    "choices": [
+      "To fight infections",
+      "To transport oxygen",
+      "To clot blood",
+      "To produce hormones"
+    ],
+    "answer": "To clot blood"
+  },
+  {
+    "question": "Which organ is responsible for filtering blood?",
+    "choices": ["Heart", "Liver", "Kidneys", "Lungs"],
+    "answer": "Kidneys"
+  },
+  {
+    "question": "What is the medical term for a heart attack?",
+    "choices": ["Angina", "Myocardial Infarction", "Stroke", "Arrhythmia"],
+    "answer": "Myocardial Infarction"
+  },
+  {
+    "question": "What does MRI stand for?",
+    "choices": [
+      "Magnetic Resonance Imaging",
+      "Multiple Radiology Imaging",
+      "Medical Resonance Imaging",
+      "Magnetic Radio Imaging"
+    ],
+    "answer": "Magnetic Resonance Imaging"
+  },
+  {
+    "question": "Which condition is characterized by the loss of bone density?",
+    "choices": ["Arthritis", "Osteoporosis", "Gout", "Scoliosis"],
+    "answer": "Osteoporosis"
+  },
+  {
+    "question": "What is the primary function of the small intestine?",
+    "choices": [
+      "To store bile",
+      "To absorb nutrients",
+      "To produce insulin",
+      "To filter waste"
+    ],
+    "answer": "To absorb nutrients"
+  },
+  {
+    "question": "What does HIV stand for?",
+    "choices": [
+      "Human Immune Virus",
+      "Human Immunodeficiency Virus",
+      "Human Immunology Virus",
+      "Human Infection Virus"
+    ],
+    "answer": "Human Immunodeficiency Virus"
+  },
+  {
+    "question": "Which medical condition is also known as 'renal calculus'?",
+    "choices": [
+      "Kidney stones",
+      "Gallstones",
+      "Bladder stones",
+      "Liver stones"
+    ],
+    "answer": "Kidney stones"
+  },
+  {
+    "question": "Which structure connects muscles to bones?",
+    "choices": ["Ligaments", "Tendons", "Cartilage", "Joints"],
+    "answer": "Tendons"
+  },
+  {
+    "question": "What is the primary function of the lungs?",
+    "choices": [
+      "To filter blood",
+      "To produce hormones",
+      "To exchange oxygen and carbon dioxide",
+      "To digest food"
+    ],
+    "answer": "To exchange oxygen and carbon dioxide"
+  },
+  {
+    "question": "What is the name of the procedure to remove a portion of the intestine?",
+    "choices": ["Hysterectomy", "Colectomy", "Lobectomy", "Mastectomy"],
+    "answer": "Colectomy"
+  },
+  {
+    "question": "What is the main symptom of jaundice?",
+    "choices": ["Red skin", "Blue skin", "Yellow skin", "Green skin"],
+    "answer": "Yellow skin"
+  },
+  {
+    "question": "Which hormone is produced by the pancreas?",
+    "choices": ["Insulin", "Adrenaline", "Thyroxine", "Melatonin"],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the medical term for low blood sugar?",
+    "choices": ["Hyperglycemia", "Hypoglycemia", "Hypertension", "Hypotension"],
+    "answer": "Hypoglycemia"
+  },
+  {
+    "question": "Which condition is characterized by the inflammation of the liver?",
+    "choices": ["Hepatitis", "Gastritis", "Pancreatitis", "Nephritis"],
+    "answer": "Hepatitis"
+  },
+  {
+    "question": "What is the primary function of the large intestine?",
+    "choices": [
+      "To absorb nutrients",
+      "To store bile",
+      "To reabsorb water and electrolytes",
+      "To filter blood"
+    ],
+    "answer": "To reabsorb water and electrolytes"
+  },
+  {
+    "question": "What does CAT stand for in medical imaging?",
+    "choices": [
+      "Computerized Axial Tomography",
+      "Computed Axial Tomography",
+      "Central Axial Tomography",
+      "Combined Axial Tomography"
+    ],
+    "answer": "Computed Axial Tomography"
+  },
+  {
+    "question": "Which medical specialist would you consult for a skin condition?",
+    "choices": [
+      "Cardiologist",
+      "Dermatologist",
+      "Neurologist",
+      "Gastroenterologist"
+    ],
+    "answer": "Dermatologist"
+  },
+  {
+    "question": "What is the primary function of the thyroid gland?",
+    "choices": [
+      "To regulate metabolism",
+      "To produce red blood cells",
+      "To filter toxins",
+      "To control blood sugar levels"
+    ],
+    "answer": "To regulate metabolism"
+  },
+  {
+    "question": "What does ACL stand for in medical terms?",
+    "choices": [
+      "Anterior Cruciate Ligament",
+      "Aortic Constriction Ligament",
+      "Arterial Circulation Line",
+      "Automated Cardiac Line"
+    ],
+    "answer": "Anterior Cruciate Ligament"
+  },
+  {
+    "question": "Which condition is characterized by chronic joint inflammation?",
+    "choices": ["Osteoporosis", "Arthritis", "Scoliosis", "Gout"],
+    "answer": "Arthritis"
+  },
+  {
+    "question": "What is the medical term for the windpipe?",
+    "choices": ["Esophagus", "Trachea", "Bronchus", "Larynx"],
+    "answer": "Trachea"
+  },
+  {
+    "question": "Which part of the eye is responsible for controlling the amount of light that enters?",
+    "choices": ["Cornea", "Iris", "Retina", "Lens"],
+    "answer": "Iris"
+  },
+  {
+    "question": "What is the medical term for inflammation of the urinary bladder?",
+    "choices": ["Cystitis", "Nephritis", "Urethritis", "Prostatitis"],
+    "answer": "Cystitis"
+  },
+  {
+    "question": "Which organ is affected by pneumonia?",
+    "choices": ["Liver", "Heart", "Kidneys", "Lungs"],
+    "answer": "Lungs"
+  },
+  {
+    "question": "What is the function of hemoglobin in the blood?",
+    "choices": [
+      "To fight infections",
+      "To carry oxygen",
+      "To clot blood",
+      "To produce antibodies"
+    ],
+    "answer": "To carry oxygen"
+  },
+  {
+    "question": "Which condition is characterized by a lack of healthy red blood cells?",
+    "choices": ["Leukemia", "Anemia", "Hemophilia", "Polycythemia"],
+    "answer": "Anemia"
+  },
+  {
+    "question": "What is the primary cause of peptic ulcers?",
+    "choices": [
+      "Excessive exercise",
+      "Bacterial infection",
+      "Viral infection",
+      "Genetic predisposition"
+    ],
+    "answer": "Bacterial infection"
+  },
+  {
+    "question": "What is the medical term for high cholesterol?",
+    "choices": [
+      "Hyperlipidemia",
+      "Hypoglycemia",
+      "Hypertension",
+      "Hypotension"
+    ],
+    "answer": "Hyperlipidemia"
+  },
+  {
+    "question": "Which part of the heart receives oxygenated blood from the lungs?",
+    "choices": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "answer": "Left atrium"
+  },
+  {
+    "question": "What is the medical term for a stroke?",
+    "choices": [
+      "Cerebrovascular Accident",
+      "Myocardial Infarction",
+      "Transient Ischemic Attack",
+      "Peripheral Artery Disease"
+    ],
+    "answer": "Cerebrovascular Accident"
+  },
+  {
+    "question": "Which medical imaging technique uses sound waves?",
+    "choices": ["MRI", "CT scan", "Ultrasound", "X-ray"],
+    "answer": "Ultrasound"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "choices": [
+      "To transport oxygen",
+      "To fight infections",
+      "To clot blood",
+      "To produce hormones"
+    ],
+    "answer": "To fight infections"
+  },
+  {
+    "question": "Which condition is characterized by elevated blood sugar levels?",
+    "choices": [
+      "Hypertension",
+      "Hyperglycemia",
+      "Hypoglycemia",
+      "Hyperlipidemia"
+    ],
+    "answer": "Hyperglycemia"
+  },
+  {
+    "question": "What does EEG stand for?",
+    "choices": [
+      "Electroencephalogram",
+      "Electrocardiogram",
+      "Electromyogram",
+      "Echocardiogram"
+    ],
+    "answer": "Electroencephalogram"
+  },
+  {
+    "question": "What is the function of the pancreas in digestion?",
+    "choices": [
+      "To produce bile",
+      "To store glycogen",
+      "To produce digestive enzymes",
+      "To filter blood"
+    ],
+    "answer": "To produce digestive enzymes"
+  },
+  {
+    "question": "Which hormone regulates the sleep-wake cycle?",
+    "choices": ["Insulin", "Adrenaline", "Thyroxine", "Melatonin"],
+    "answer": "Melatonin"
+  },
+  {
+    "question": "What is the medical term for difficulty swallowing?",
+    "choices": ["Dysphagia", "Dysphasia", "Dyspnea", "Dysuria"],
+    "answer": "Dysphagia"
+  },
+  {
+    "question": "What is the name of the tissue that connects bones at a joint?",
+    "choices": ["Ligament", "Tendon", "Cartilage", "Muscle"],
+    "answer": "Ligament"
+  },
+  {
+    "question": "What is the primary function of the spleen?",
+    "choices": [
+      "To filter blood",
+      "To produce red blood cells",
+      "To store bile",
+      "To produce insulin"
+    ],
+    "answer": "To filter blood"
+  },
+  {
+    "question": "Which condition is characterized by the buildup of fluid in the lungs?",
+    "choices": ["Pneumonia", "Pulmonary Edema", "Bronchitis", "Emphysema"],
+    "answer": "Pulmonary Edema"
+  },
+  {
+    "question": "What is the medical term for inflammation of the gallbladder?",
+    "choices": ["Cholecystitis", "Pancreatitis", "Gastritis", "Nephritis"],
+    "answer": "Cholecystitis"
+  },
+  {
+    "question": "What is the main function of bile?",
+    "choices": [
+      "To digest carbohydrates",
+      "To absorb vitamins",
+      "To emulsify fats",
+      "To break down proteins"
+    ],
+    "answer": "To emulsify fats"
+  },
+  {
+    "question": "Which condition is characterized by the abnormal growth of cells in the body?",
+    "choices": ["Infection", "Inflammation", "Cancer", "Autoimmune Disease"],
+    "answer": "Cancer"
+  },
+  {
+    "question": "What is the medical term for a decrease in the number of white blood cells?",
+    "choices": [
+      "Leukocytosis",
+      "Leukopenia",
+      "Thrombocytosis",
+      "Thrombocytopenia"
+    ],
+    "answer": "Leukopenia"
+  },
+  {
+    "question": "Which organ produces bile?",
+    "choices": ["Liver", "Pancreas", "Gallbladder", "Kidneys"],
+    "answer": "Liver"
+  },
+  {
+    "question": "What does COPD stand for?",
+    "choices": [
+      "Chronic Obstructive Pulmonary Disease",
+      "Chronic Osteo Pulmonary Disease",
+      "Chronic Osteo Pulmonary Disorder",
+      "Chronic Obstructive Pulmonary Disorder"
+    ],
+    "answer": "Chronic Obstructive Pulmonary Disease"
+  },
+  {
+    "question": "Which condition is characterized by the abnormal dilation of the bronchial tubes?",
+    "choices": ["Asthma", "Bronchitis", "Emphysema", "Bronchiectasis"],
+    "answer": "Bronchiectasis"
+  },
+  {
+    "question": "What is the primary function of the liver?",
+    "choices": [
+      "To filter blood",
+      "To produce insulin",
+      "To store vitamins",
+      "To absorb nutrients"
+    ],
+    "answer": "To filter blood"
+  },
+  {
+    "question": "Which condition is characterized by the presence of blood in the urine?",
+    "choices": ["Proteinuria", "Hematuria", "Glycosuria", "Pyuria"],
+    "answer": "Hematuria"
+  },
+  {
+    "question": "What is the medical term for inflammation of the pancreas?",
+    "choices": ["Gastritis", "Cholecystitis", "Pancreatitis", "Hepatitis"],
+    "answer": "Pancreatitis"
+  }
+]

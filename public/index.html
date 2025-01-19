@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <button id="start-button" onclick="startQuiz()">Start Quiz</button>
+        <div id="quiz-content" style="display: none;">
+            <div class="quiz-timer" id="quiz-timer"></div>
+            <div id="question-container"></div>
+            <button id="next-button" onclick="goToNextSection()">Next Section</button>
+            
+        </div>
+        <div id="score-popup" style="display: none;">
+            <p>Your Score: <span id="score"></span></p>
+            <button id="popup-close-btn" onclick="closePopup()">X</button>
+            <button onclick="viewResults()">View Results</button>
+            <button onclick="viewAllQuestions()">View All Questions</button>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
