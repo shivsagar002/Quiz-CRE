@@ -38,6 +38,11 @@ app.get('/review', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/review.html'));
 });
 
+// Serve the admin.html file
+app.get('/admin', (req, res) => {
+    fs.readFile(path.join(__dirname, '../backend/results.json'), 'utf8', (err, data) => { if (err) { console.error('Error reading the file:', err); res.status(500).send('Error reading the file'); return; } res.json(JSON.parse(data)); });
+});
+
 // Endpoint to get results
 app.get('/getResults', (req, res) => {
     const filePath = path.join(__dirname, 'results.json');
@@ -45,7 +50,7 @@ app.get('/getResults', (req, res) => {
         if (err) {
             return res.status(500).send('Error loading results');
         }
-        res.send(data);
+        res.send(JSON.parse(data));
     });
 });
 

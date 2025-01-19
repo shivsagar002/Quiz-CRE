@@ -201,6 +201,40 @@ function loadAllQuestions() {
         .catch(error => console.error('Error loading questions:', error));
 }
 
+// Load admin data
+function loadAdminData() {
+    fetch('/getResults')
+        .then(response => response.json())
+        .then(data => {
+            const adminContainer = document.getElementById('admin-content');
+            data.forEach((result, index) => {
+                // Check for null values before displaying choices
+                if (result && result.userChoices) {
+                    const resultElement = document.createElement('div');
+                    resultElement.className = 'result';
+                    resultElement.innerHTML = `
+                        <h3>Result ${index + 1}</h3>
+                        <p>Timestamp: ${result.timestamp}</p>
+                        <p>Questions Attempted: ${result.questionsAttempted}</p>
+                        <p>Score: ${result.score}</p>
+                        <h4>User Choices:</h4>
+                        <ul>
+                            ${result.userChoices.map(choice => `
+                                <li>
+                                    <p>Question: ${choice.question || ''}</p>
+                                    <p>Your Answer: ${choice.selected || ''}</p>
+                                    <p>Correct Answer: ${choice.correct || ''}</p>
+                                </li>
+                            `).join('')}
+                        </ul>
+                    `;
+                    adminContainer.appendChild(resultElement);
+                }
+            });
+        })
+        .catch(error => console.error('Error loading admin data:', error));
+}
+
 // Escape special characters in a string
 function escapeString(str) {
     return str.replace(/'/g, "\\'").replace(/"/g, '\\"');
